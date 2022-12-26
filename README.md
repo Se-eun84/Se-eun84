@@ -7,5 +7,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Se-eun84&show_icons=true)](https://github.com/Se-eun84)
 
 
-You can click the Preview link to take a look at your changes.
+
 --->
